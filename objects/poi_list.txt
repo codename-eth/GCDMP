@@ -1,4 +1,4 @@
-file_images = [
+const file_images = [
     "poi_label", "polaroid label", "polaroid image",
     "poi_dt_Diamond","Diamond District", "poi_dt_Diamond.png",
     "poi_dt_Police", "Police Station", "poi_dt_Police.png",
