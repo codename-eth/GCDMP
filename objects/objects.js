@@ -7,7 +7,7 @@ var mapObjectsFull =
         location: [-36.389706, -19.944796],	
         pimage: 'poi_dt_Police.png',	
         pcaption: 'Police Station',	
-        description: 'The Police station ... '
+        description: 'The Police station in downtown Genesis City.'
     },
     {	
         name: 'poi_dt_Pub',	
