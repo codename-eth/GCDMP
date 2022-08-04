@@ -75,7 +75,7 @@ var mapObjectsFull =
     {	
         name: 'poi_dt_Test_Location',	
         id: '90009',	
-        type: 'submitted',	
+        type: 'feedback',	
         location: [-24.846565, -40.107595],	
         pimage: 'default.png',	
         pcaption: 'Test Location',	
