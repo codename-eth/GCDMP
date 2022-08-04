@@ -71,5 +71,14 @@ var mapObjectsFull =
         pimage: 'default.png',	
         pcaption: 'Duma Industries Tower',	
         description: 'Duma industries central base of operations.  A tall tower with ocean views.'
+    },
+        {	
+        name: 'poi_New_Item',	
+        id: '90009',	
+        type: 'submitted',	
+        location: [-25.165173, -39.40456],	
+        pimage: 'default.png',	
+        pcaption: 'New Location',	
+        description: 'I've submitted a new location'
     }
 ]
